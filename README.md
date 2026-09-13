@@ -4,7 +4,7 @@ A responsive single-page personal profile website built with semantic HTML5 and 
 
 Overview
 
-Live link: add your GitHub Pages / Netlify / Vercel link here after deployment
+Live link:https://github.com/tahasanurkarim-pixel/profile_mini_project
 
 This project is a single-page personal profile for Tahasanur Karim, a Computer Science and Engineering student. The site introduces the student, lists core technical skills, showcases two projects with descriptions, and provides a contact section with a working form layout.
 
